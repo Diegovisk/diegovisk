@@ -1,7 +1,39 @@
-### Hi there 👋
+## 🚀 Hello there! Welcome to my github 
+
+My name is Diego Lucena and I am a 21 y.o. developer from Brazil.
+
+Currently an undergratuate on Computer Engineering @ UEA. But also, always hungry for more knowledge or useful projects.
+
+My specialty is web development, but I also have experience with desktop apps, mobile apps and general purpose scripts or tools for some Linux distros. Within a few years I wish not only to know a bit of everything on major areas of Computer Science, but also develop projects with IoT, start new open-source projects for my local community and engage in existing projects.
+
+### What I am currently working on:
+
+- Diabetic Rethinopathy Research @ LSI lab, UEA
+- Competitive programming algorithms
+
+### My research interests:
+**I am also a scientist!!** 👨‍🔬👨‍💻, and below you can find the areas of which I am currently fond of.
+
+- Artifical Inteligence
+- Machine Learning
+- Computer Vision
+- Software Engineering
+- Gamification
+
+--- 
+And that's all! If you wish to reach me, catch at [dldm.dev@gmail.com](mailto:dldm.dev@gmail.com) or my LinkedIn profile: [@diegovisk](https://www.linkedin.com/in/diegovisk)
 
 <!--
 **Diegovisk/diegovisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 Here are some ideas to get you started:
 
