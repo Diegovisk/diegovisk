@@ -10,7 +10,7 @@ My main focuses at the momment are within the area of Data Science.
 
 ### What I am currently working on:
 
-- Diabetic Rethinopathy Research @ LSI lab, UEA
+- Diabetic Rethinopathy Detection Research @ LSI lab, UEA
 - Competitive programming algorithms
 
 ### My research interests:
