@@ -6,6 +6,8 @@ Currently an undergratuate on Computer Engineering @ UEA. But also, always hungr
 
 My specialty is web development, but I also have experience with desktop apps, mobile apps and general purpose scripts or tools for some Linux distros. Within a few years I wish not only to know a bit of everything on major areas of Computer Science, but also develop projects with IoT, start new open-source projects for my local community and engage in existing projects.
 
+My main focuses at the momment are within the area of Data Science.
+
 ### What I am currently working on:
 
 - Diabetic Rethinopathy Research @ LSI lab, UEA
