@@ -6,19 +6,19 @@ Currently an undergratuate on Computer Engineering @ UEA. But also, always hungr
 
 My specialty is web development, but I also have experience with desktop apps, mobile apps and general purpose scripts or tools for some Linux distros. Within a few years I wish not only to know a bit of everything on major areas of Computer Science, but also develop projects with IoT, start new open-source projects for my local community and engage in existing projects.
 
-My main focuses at the momment are within the area of Data Science.
+My main focuses at the momment are within the area of Data Science and IoT.
 
 ### What I am currently working on:
 
 - Diabetic Rethinopathy Detection Research @ LSI lab, UEA
-- Competitive programming algorithms
+- Data science & IoT Research and development @ Ocean Manaus, Samsung/UEA
 
 ### My research interests:
 **I am also a scientist!!** 👨‍🔬👨‍💻, and below you can find the areas of which I am currently fond of.
 
 - Artifical Inteligence
 - Machine Learning
-- Computer Vision
+- Computer Vision (with various DL methods)
 - Software Engineering
 - Gamification
 
