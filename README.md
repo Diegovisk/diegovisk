@@ -1,19 +1,18 @@
 ## 🚀 Hello there! Welcome to my github 
 
-My name is Diego Lucena and I am a 22 y.o. developer from Brazil.
+My name is Diego Lucena and I am a 23 y.o. developer from Brazil.
 
 Currently an undergratuate on Computer Engineering @ UEA. But also, always hungry for more knowledge or useful projects.
 
-My specialty is web development, but I also have experience with desktop apps, mobile apps and general purpose scripts or tools for some Linux distros. Within a few years I wish not only to know a bit of everything on major areas of Computer Science, but also develop projects with IoT, start new open-source projects for my local community and engage in existing projects.
+My main carreer focus right now is on Data Science, specifically on NLP projects.
 
-My main focuses at the momment are within the area of Data Science (with deep learning) and IoT.
+Secondary interests are: microelectronics, IoT and Linux.
 
-### What I am currently working on:
+### 💼 What I am currently working on:
 
 - Data products development @ QuintoAndar, Brazil;
-- Data science & IoT Research and development @ Ocean Manaus, Samsung/UEA.
 
-### My research interests:
+### 🧪 My research interests:
 **I am also a scientist!!** 👨‍🔬👨‍💻, and below you can find the areas of which I am currently fond of.
 
 - Convolutional Neural Networks
@@ -21,9 +20,12 @@ My main focuses at the momment are within the area of Data Science (with deep le
   - or videos,
   - or detection,
   - NLP,
-  - and generative Networks :O
+  - and generative Networks
 - Software Engineering
 - Various low-level programming tidbits
+- Statistics
+
+📝 My published work can be found on my [Google Scholar page.](https://scholar.google.com.br/citations?hl=en&user=sAahukkAAAAJ)
 
 --- 
 And that's all! If you wish to reach me, catch at [dldm.dev@gmail.com](mailto:dldm.dev@gmail.com) or my LinkedIn profile: [@diegovisk](https://www.linkedin.com/in/diegovisk)
